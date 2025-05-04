@@ -1,7 +1,7 @@
 * text=auto
 
-Assets/SteamVR/* linguist-vendored
-Assets/SteamVR_Resources/* linguist-vendored
-Assets/StreamingAssets/* linguist-vendored
-Assets/XR/* linguist-vendored
-Assets/ProjectSettings/* linguist-vendored
+Assets/SteamVR/** linguist-vendored
+Assets/SteamVR_Resources/** linguist-vendored
+Assets/StreamingAssets/** linguist-vendored
+Assets/XR/** linguist-vendored
+Assets/ProjectSettings/** linguist-vendored
