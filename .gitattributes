@@ -5,4 +5,4 @@ Assets/SteamVR_Resources/** linguist-vendored
 Assets/StreamingAssets/** linguist-vendored
 Assets/XR/** linguist-vendored
 Assets/ProjectSettings/** linguist-vendored
-Assets/TextMesh Pro/** linguist-vendored
+"Assets/TextMesh Pro/**" linguist-vendored
