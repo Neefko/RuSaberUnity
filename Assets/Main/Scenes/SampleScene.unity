@@ -130,12 +130,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2035017443}
   m_PrefabAsset: {fileID: 0}
---- !u!120 &54151489 stripped
-LineRenderer:
-  m_CorrespondingSourceObject: {fileID: 394277770358191003, guid: 0c47cc7023363cc45a596eb483809edd,
-    type: 3}
-  m_PrefabInstance: {fileID: 2035017443}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &54151491
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -148,8 +142,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b788f5162c547c42b291a09b7c7d0e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lineRenderer: {fileID: 54151489}
-  maxDistance: 100
 --- !u!1 &322962659
 GameObject:
   m_ObjectHideFlags: 0
@@ -768,7 +760,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1663730083}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2137689867}
+        m_TargetAssemblyTypeName: ScriptScene, Assembly-CSharp
+        m_MethodName: prefd
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1663730083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1019,6 +1023,50 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 54151491}
   m_SourcePrefab: {fileID: 100100000, guid: 0c47cc7023363cc45a596eb483809edd, type: 3}
+--- !u!1 &2137689866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2137689868}
+  - component: {fileID: 2137689867}
+  m_Layer: 0
+  m_Name: perehod
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2137689867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137689866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7daa507d33421541a1742bb45b7d8dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &2137689868
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137689866}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.039591, y: -2.644956, z: 14.891062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1029,3 +1077,4 @@ SceneRoots:
   - {fileID: 557356722}
   - {fileID: 952209909}
   - {fileID: 2035017443}
+  - {fileID: 2137689868}

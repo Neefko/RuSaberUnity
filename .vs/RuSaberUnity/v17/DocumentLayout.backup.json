@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{28DEDD18-1A4B-DAB1-6F33-839006A974BE}|Assembly-CSharp.csproj|C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\assets\\main\\scripts\\scriptscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DEDD18-1A4B-DAB1-6F33-839006A974BE}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\scriptscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Library\\PackageCache\\com.valvesoftware.unity.openvr@970ac47786c4\\Runtime\\OpenVRLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.valvesoftware.unity.openvr@970ac47786c4\\Runtime\\OpenVRLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\vr10\\rusaber\\rusaberunity\\assets\\main\\scripts\\prefabspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\main\\scripts\\prefabspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DEDD18-1A4B-DAB1-6F33-839006A974BE}|Assembly-CSharp.csproj|c:\\users\\vr10\\rusaber\\rusaberunity\\assets\\main\\scripts\\prefabspawner - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DEDD18-1A4B-DAB1-6F33-839006A974BE}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\prefabspawner - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
-              "ToolTip": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Lit.shader",
+              "DocumentIndex": 2,
+              "Title": "PrefabSpawner - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Assets\\Main\\Scripts\\PrefabSpawner - Copy.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\PrefabSpawner - Copy.cs",
+              "ToolTip": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Assets\\Main\\Scripts\\PrefabSpawner - Copy.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\PrefabSpawner - Copy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-10T11:11:47.897Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:27:10.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OpenVRLoader.cs",
-              "DocumentMoniker": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Library\\PackageCache\\com.valvesoftware.unity.openvr@970ac47786c4\\Runtime\\OpenVRLoader.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.valvesoftware.unity.openvr@970ac47786c4\\Runtime\\OpenVRLoader.cs",
-              "ToolTip": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Library\\PackageCache\\com.valvesoftware.unity.openvr@970ac47786c4\\Runtime\\OpenVRLoader.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.valvesoftware.unity.openvr@970ac47786c4\\Runtime\\OpenVRLoader.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAiwMIAAABwAAAAAAAAAA==",
+              "Title": "PrefabSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Assets\\Main\\Scripts\\PrefabSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\PrefabSpawner.cs",
+              "ToolTip": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Assets\\Main\\Scripts\\PrefabSpawner.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\PrefabSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T10:56:34.12Z",
+              "WhenOpened": "2025-05-24T08:26:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScriptScene.cs",
+              "DocumentMoniker": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Assets\\Main\\Scripts\\ScriptScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\ScriptScene.cs",
+              "ToolTip": "C:\\Users\\VR10\\RuSaber\\RuSaberUnity\\Assets\\Main\\Scripts\\ScriptScene.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\ScriptScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:26:48.767Z",
               "EditorCaption": ""
             }
           ]
